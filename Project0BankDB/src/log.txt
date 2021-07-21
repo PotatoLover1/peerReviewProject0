@@ -1,0 +1,6 @@
+2021-07-21 12:13:05 INFO  Logging:47 - User was logged in
+2021-07-21 12:13:13 INFO  Logging:84 - Withdrawal Successful
+2021-07-21 12:13:25 INFO  Logging:44 - Withdrawal Successful
+2021-07-21 12:13:33 INFO  Logging:84 - Withdrawal Successful
+2021-07-21 12:13:37 INFO  Logging:68 - Account Transfer occured
+2021-07-21 12:41:17 WARN  Logging:39 - User tried loggging in that does not exist
